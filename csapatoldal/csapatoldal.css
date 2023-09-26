@@ -1,0 +1,13 @@
+body{
+   
+    background-image: url(csapat\ hatter.jpg);
+    background-size:300px;
+}
+header{
+    flex: rgb(0, 0, 0);
+    background-color: rgb(41, 35, 232);
+    primary: rgb(230, 189, 155);
+    container: rgb(202, 218, 241);
+    content: rgb(112, 113, 111);
+    max-width: 100px;
+}
