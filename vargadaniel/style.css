@@ -1,0 +1,14 @@
+body{
+--text: #000000;
+--background: #eeeae7;
+--primary: #e6bd9b;
+--secondary: #cadaf1;
+--accent: #70716f;
+background-image: url(istockphoto-1290524888-612x612.jpg);
+
+
+}
+p{
+    size: 20px;
+
+}
