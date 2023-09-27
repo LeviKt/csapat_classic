@@ -1,0 +1,39 @@
+body{
+   
+    background-image: url(csapat\ hatter.jpg);
+    background-size:300px;
+}
+main{
+    max-width: 70%;
+    Margin-left: auto;
+    Margin-right: auto;
+/*kozepre igazitas */
+
+
+
+    flex: rgb(0, 0, 0);
+    background: rgb(238, 234, 231);
+    container: rgb(202, 218, 241);
+    appearance: rgb(112, 113, 111);
+/*szin kodok*/
+}
+
+
+p{
+
+
+
+}
+h1{
+
+
+
+}
+h2{
+
+}
+
+
+h3{
+
+}
