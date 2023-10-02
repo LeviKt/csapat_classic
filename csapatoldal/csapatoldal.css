@@ -19,16 +19,17 @@ main{
 }
 
 
-p{
-
-
-
-}
-h1{
-
+p{/*kisebb betutipust hasznalj: vérmérséklete és jelleme*/
 
 
 }
+
+h1{line-height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
 h2{
 
 }
@@ -37,3 +38,6 @@ h2{
 h3{
 
 }
+
+
+
