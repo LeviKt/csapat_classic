@@ -1,0 +1,55 @@
+body{
+   
+    background-image: url(husky\ hatterkep.jpg);
+    background-size:300px;
+}
+main{
+    max-width: 70%;
+    Margin-left: auto;
+    Margin-right: auto;
+/*kozepre igazitas */
+    padding-inline: 10px;
+
+
+    flex: rgb(0, 0, 0);
+    background: rgb(238, 234, 231);
+    contain: rgb(202, 218, 241);
+    appearance: rgb(112, 113, 111);
+/*szin kodok*/
+}
+
+
+p{/*kisebb betutipust hasznalj: vérmérséklete és jelleme*/
+
+
+
+}
+h1{line-height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    
+  
+
+
+}
+h2{
+
+}
+
+
+h3{
+
+}
+picture{
+    flood-opacity: 20%;
+}
+footer{
+    color: black;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 200px;;
+    border-radius: 30px;
+}
